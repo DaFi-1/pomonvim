@@ -1,6 +1,8 @@
 # pomonvim.nvim 🍅
 
 Um plugin moderno, minimalista, interativo e de alta performance de Pomodoro e blocos de foco para Neovim.
+<img width="943" height="560" alt="image" src="https://github.com/user-attachments/assets/e1252cae-b343-4231-a7bb-4b9aa5ec9922" />
+<img width="884" height="447" alt="image" src="https://github.com/user-attachments/assets/213d1832-7ccb-4d5b-a3db-914df1764352" />
 
 ---
 
